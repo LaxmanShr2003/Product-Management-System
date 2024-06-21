@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\data\\seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:data\\seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\views\\category\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:views\\category\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121AC637-50BB-4F57-9478-04426F85F81F}|..\\laxmanPMS.Models\\laxmanPMS.Models.csproj|d:\\submission project\\laxmanpms\\laxmanpms.models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121AC637-50BB-4F57-9478-04426F85F81F}|..\\laxmanPMS.Models\\laxmanPMS.Models.csproj|d:\\submission project\\laxmanpms\\laxmanpms.models\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D60A2D-1D13-4EDB-91F1-BE68190A9C46}|..\\laxmanPMS.Infrastructure\\laxmanPMS.Infrastructure.csproj|d:\\submission project\\laxmanpms\\laxmanpms.infrastructure\\pmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Migrations\\PMSDb\\20240620091919_quantity-added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\PMSDb\\20240620091919_quantity-added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D60A2D-1D13-4EDB-91F1-BE68190A9C46}|..\\laxmanPMS.Infrastructure\\laxmanPMS.Infrastructure.csproj|d:\\submission project\\laxmanpms\\laxmanpms.infrastructure\\entity_configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121AC637-50BB-4F57-9478-04426F85F81F}|..\\laxmanPMS.Models\\laxmanPMS.Models.csproj|d:\\submission project\\laxmanpms\\laxmanpms.models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121AC637-50BB-4F57-9478-04426F85F81F}|..\\laxmanPMS.Models\\laxmanPMS.Models.csproj|d:\\submission project\\laxmanpms\\laxmanpms.models\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121AC637-50BB-4F57-9478-04426F85F81F}|..\\laxmanPMS.Models\\laxmanPMS.Models.csproj|d:\\submission project\\laxmanpms\\laxmanpms.models\\laxmanpms.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D60A2D-1D13-4EDB-91F1-BE68190A9C46}|..\\laxmanPMS.Infrastructure\\laxmanPMS.Infrastructure.csproj|d:\\submission project\\laxmanpms\\laxmanpms.infrastructure\\laxmanpms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\laxmanpms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:laxmanpms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|d:\\submission project\\laxmanpms\\laxmanpms.web\\views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E02D77E-063F-4A8B-B7FA-2A355DC3732E}|laxmanPMS.web.csproj|solutionrelative:views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T11:16:11.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIA0wCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:30:56.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Product\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\AddEdit.cshtml",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Product\\AddEdit.cshtml",
+              "RelativeToolTip": "Views\\Product\\AddEdit.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAEoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T12:38:46.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T13:56:07.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA6wBoAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:46:12.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Category\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\AddEdit.cshtml",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Category\\AddEdit.cshtml",
+              "RelativeToolTip": "Views\\Category\\AddEdit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:52:15.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T14:02:52.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedingData.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Data\\SeedingData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedingData.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Data\\SeedingData.cs",
+              "RelativeToolTip": "Data\\SeedingData.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:00:17.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:51:03.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Home.cshtml",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "Views\\Home\\Home.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAJkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T12:25:04.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEcAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:01:03.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-21T08:29:11.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SearchVIewModel.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Models\\ViewModels\\SearchVIewModel.cs",
+              "RelativeDocumentMoniker": "..\\laxmanPMS.Models\\ViewModels\\SearchVIewModel.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Models\\ViewModels\\SearchVIewModel.cs",
+              "RelativeToolTip": "..\\laxmanPMS.Models\\ViewModels\\SearchVIewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:05:36.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAADEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:12:41.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAjwD0AAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:01:03.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAWwIgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:51:23.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "..\\laxmanPMS.Models\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "..\\laxmanPMS.Models\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:02:17.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:06:30.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PMSDbContext.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Infrastructure\\PMSDbContext.cs",
+              "RelativeDocumentMoniker": "..\\laxmanPMS.Infrastructure\\PMSDbContext.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Infrastructure\\PMSDbContext.cs",
+              "RelativeToolTip": "..\\laxmanPMS.Infrastructure\\PMSDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:10:55.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240620091919_quantity-added.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Migrations\\PMSDb\\20240620091919_quantity-added.cs",
+              "RelativeDocumentMoniker": "Migrations\\PMSDb\\20240620091919_quantity-added.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Migrations\\PMSDb\\20240620091919_quantity-added.cs",
+              "RelativeToolTip": "Migrations\\PMSDb\\20240620091919_quantity-added.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:19:19.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Models\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "..\\laxmanPMS.Models\\Entity\\Product.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Models\\Entity\\Product.cs",
+              "RelativeToolTip": "..\\laxmanPMS.Models\\Entity\\Product.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:40:52.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Infrastructure\\Entity_Configuration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\laxmanPMS.Infrastructure\\Entity_Configuration\\ProductConfiguration.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Infrastructure\\Entity_Configuration\\ProductConfiguration.cs",
+              "RelativeToolTip": "..\\laxmanPMS.Infrastructure\\Entity_Configuration\\ProductConfiguration.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:40:56.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "laxmanPMS.Models.csproj",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Models\\laxmanPMS.Models.csproj",
+              "RelativeDocumentMoniker": "..\\laxmanPMS.Models\\laxmanPMS.Models.csproj",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Models\\laxmanPMS.Models.csproj",
+              "RelativeToolTip": "..\\laxmanPMS.Models\\laxmanPMS.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T10:09:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "laxmanPMS.web.csproj",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\laxmanPMS.web.csproj",
+              "RelativeDocumentMoniker": "laxmanPMS.web.csproj",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\laxmanPMS.web.csproj",
+              "RelativeToolTip": "laxmanPMS.web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T10:09:26.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Models\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "..\\laxmanPMS.Models\\Entity\\Category.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Models\\Entity\\Category.cs",
+              "RelativeToolTip": "..\\laxmanPMS.Models\\Entity\\Category.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:27:26.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:29:53.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "laxmanPMS.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Infrastructure\\laxmanPMS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\laxmanPMS.Infrastructure\\laxmanPMS.Infrastructure.csproj",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Infrastructure\\laxmanPMS.Infrastructure.csproj",
+              "RelativeToolTip": "..\\laxmanPMS.Infrastructure\\laxmanPMS.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T10:09:32.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwFIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:34:12.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Notification.cshtml",
+              "DocumentMoniker": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Shared\\Notification.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Notification.cshtml",
+              "ToolTip": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\Views\\Shared\\Notification.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T13:17:21.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+D:\submission project\LaxmanPMS\laxmanPMS.Models\bin\Debug\net8.0\laxmanPMS.Models.deps.json
+D:\submission project\LaxmanPMS\laxmanPMS.Models\bin\Debug\net8.0\laxmanPMS.Models.dll
+D:\submission project\LaxmanPMS\laxmanPMS.Models\bin\Debug\net8.0\laxmanPMS.Models.pdb
+D:\submission project\LaxmanPMS\laxmanPMS.Models\obj\Debug\net8.0\laxmanPMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\submission project\LaxmanPMS\laxmanPMS.Models\obj\Debug\net8.0\laxmanPMS.Models.AssemblyInfoInputs.cache
+D:\submission project\LaxmanPMS\laxmanPMS.Models\obj\Debug\net8.0\laxmanPMS.Models.AssemblyInfo.cs
+D:\submission project\LaxmanPMS\laxmanPMS.Models\obj\Debug\net8.0\laxmanPMS.Models.csproj.CoreCompileInputs.cache
+D:\submission project\LaxmanPMS\laxmanPMS.Models\obj\Debug\net8.0\laxmanPMS.Models.dll
+D:\submission project\LaxmanPMS\laxmanPMS.Models\obj\Debug\net8.0\refint\laxmanPMS.Models.dll
+D:\submission project\LaxmanPMS\laxmanPMS.Models\obj\Debug\net8.0\laxmanPMS.Models.pdb
+D:\submission project\LaxmanPMS\laxmanPMS.Models\obj\Debug\net8.0\ref\laxmanPMS.Models.dll
+D:\submission project\LaxmanPMS\laxmanPMS.Models\obj\Debug\net8.0\laxmanPMS.Models.csproj.AssemblyReference.cache

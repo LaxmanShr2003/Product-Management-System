@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\laxmanPMS.web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\laxmanPMS.web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\05046803-2e7a-4a43-93c6-9c82ee8d84c9_HP.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\05046803-2e7a-4a43-93c6-9c82ee8d84c9_HP.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\0d01e652-d417-4684-a5fe-974d9caafc2b_dell.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\0d01e652-d417-4684-a5fe-974d9caafc2b_dell.jpeg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\123362c9-c7ec-45a7-9179-0871a6f8cc53_mouse2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\123362c9-c7ec-45a7-9179-0871a6f8cc53_mouse2.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\231a301c-8008-418e-bb62-d0c3e54efcc8_laptop.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\231a301c-8008-418e-bb62-d0c3e54efcc8_laptop.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\375ebfcc-e631-4726-890b-537c1e8f2917_s22.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\375ebfcc-e631-4726-890b-537c1e8f2917_s22.jpeg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\3cf07388-c463-4643-8db6-274807e5e1a3_mouse1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\3cf07388-c463-4643-8db6-274807e5e1a3_mouse1.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\48272b87-e9bd-4cf3-a68d-b3d1618f6f8f_Monitor3.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\48272b87-e9bd-4cf3-a68d-b3d1618f6f8f_Monitor3.jpeg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\588d6f88-573f-47f4-8be3-8d20af289e34_dell.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\588d6f88-573f-47f4-8be3-8d20af289e34_dell.jpeg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\5fb34948-4b1f-4e65-9435-719249d29c38_Desktop1.webp",
+      "PackagePath": "staticwebassets\\ProductImage\\5fb34948-4b1f-4e65-9435-719249d29c38_Desktop1.webp"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\652fc58b-fdeb-4a5c-8cdc-16be2a917fa2_laptop3.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\652fc58b-fdeb-4a5c-8cdc-16be2a917fa2_laptop3.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\7ac8810a-fb5c-4b89-847b-e5df69a20cfe_laptop.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\7ac8810a-fb5c-4b89-847b-e5df69a20cfe_laptop.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\7b35f09e-4526-41c0-b173-c9288c472f65_Monitor2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\7b35f09e-4526-41c0-b173-c9288c472f65_Monitor2.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\Acer.avif",
+      "PackagePath": "staticwebassets\\ProductImage\\Acer.avif"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\Desktop1.webp",
+      "PackagePath": "staticwebassets\\ProductImage\\Desktop1.webp"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\Desktop2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Desktop2.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\HP.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\HP.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\Monitor.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Monitor.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\Monitor2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Monitor2.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\Monitor3.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\Monitor3.jpeg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\SSD.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\SSD.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\SSD2.webp",
+      "PackagePath": "staticwebassets\\ProductImage\\SSD2.webp"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\a46f60dd-83b9-425a-a655-c8a98841e7de_mouse3.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\a46f60dd-83b9-425a-a655-c8a98841e7de_mouse3.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\b8f88dca-ff4c-48d8-b454-a2ec35c6c2d6_laptop5.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\b8f88dca-ff4c-48d8-b454-a2ec35c6c2d6_laptop5.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\bc0ce685-a6c8-47ae-844a-fe1b2fb93970_SSD2.webp",
+      "PackagePath": "staticwebassets\\ProductImage\\bc0ce685-a6c8-47ae-844a-fe1b2fb93970_SSD2.webp"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\c134f128-8ed3-49ac-8b62-42536a9fe515_laptop2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\c134f128-8ed3-49ac-8b62-42536a9fe515_laptop2.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\c64e80df-2e42-45d1-9203-0583fb753f05_dell.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\c64e80df-2e42-45d1-9203-0583fb753f05_dell.jpeg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\d2d496a5-f42c-442b-9cef-33d318d0d491_dell.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\d2d496a5-f42c-442b-9cef-33d318d0d491_dell.jpeg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\dell.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\dell.jpeg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\laptop.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\laptop.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\laptop2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\laptop2.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\laptop3.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\laptop3.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\laptop5.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\laptop5.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\log.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\log.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\loginimage.png",
+      "PackagePath": "staticwebassets\\ProductImage\\loginimage.png"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\mouse1.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\mouse1.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\mouse2.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\mouse2.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\mouse3.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\mouse3.jpg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\rgister.png",
+      "PackagePath": "staticwebassets\\ProductImage\\rgister.png"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\ProductImage\\s22.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\s22.jpeg"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\submission project\\LaxmanPMS\\laxmanPMS.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.laxmanPMS.web.props",
+      "PackagePath": "build\\laxmanPMS.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.laxmanPMS.web.props",
+      "PackagePath": "buildMultiTargeting\\laxmanPMS.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.laxmanPMS.web.props",
+      "PackagePath": "buildTransitive\\laxmanPMS.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.laxmanPMS.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

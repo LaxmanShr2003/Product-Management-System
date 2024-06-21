@@ -1,0 +1,17 @@
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\bin\Debug\net8.0\laxmanPMS.Infrastructure.deps.json
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\bin\Debug\net8.0\laxmanPMS.Infrastructure.runtimeconfig.json
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\bin\Debug\net8.0\laxmanPMS.Infrastructure.dll
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\bin\Debug\net8.0\laxmanPMS.Infrastructure.pdb
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\obj\Debug\net8.0\laxmanPMS.Infrastructure.csproj.AssemblyReference.cache
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\obj\Debug\net8.0\laxmanPMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\obj\Debug\net8.0\laxmanPMS.Infrastructure.AssemblyInfoInputs.cache
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\obj\Debug\net8.0\laxmanPMS.Infrastructure.AssemblyInfo.cs
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\obj\Debug\net8.0\laxmanPMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\obj\Debug\net8.0\laxmanPMS.Infrastructure.dll
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\obj\Debug\net8.0\refint\laxmanPMS.Infrastructure.dll
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\obj\Debug\net8.0\laxmanPMS.Infrastructure.pdb
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\obj\Debug\net8.0\laxmanPMS.Infrastructure.genruntimeconfig.cache
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\obj\Debug\net8.0\ref\laxmanPMS.Infrastructure.dll
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\bin\Debug\net8.0\laxmanPMS.Models.dll
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\bin\Debug\net8.0\laxmanPMS.Models.pdb
+D:\submission project\LaxmanPMS\laxmanPMS.Infrastructure\obj\Debug\net8.0\laxmanPM.1F482AB2.Up2Date

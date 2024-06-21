@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NU1Iyfr2kjtUeO438F9P1WYbtuxreZJCbOULttqIcHf1WsftyQfjQMP2wc4FdjPmjrAf100yC5wMMl7PphD9gg==",
+  "success": true,
+  "projectFilePath": "D:\\submission project\\LaxmanPMS\\laxmanPMS.Models\\laxmanPMS.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
